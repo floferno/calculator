@@ -1,0 +1,25 @@
+.output {
+    height: 100px;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 0 10px;
+    background-color: #4357692d;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    text-align: end;
+    color: white;
+    font-size: 35px;
+    font-weight:bold;
+    box-sizing: border-box;
+}
+
+.result {
+    background-color: #738a9f2d;
+}
+
+#display {
+    background-color: #738a9f2d;
+    margin-top: 5px;
+}
